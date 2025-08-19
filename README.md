@@ -14,7 +14,6 @@
    <a href="https://t.me/keskiyo">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
     </a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
 </div>
 
 ### :man_technologist: About Me :
