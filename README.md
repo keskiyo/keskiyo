@@ -69,12 +69,3 @@
   <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
   <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
 </p>
-
----
-
-<div display="flex" alignItems="start">
- <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keskiyo&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-  <a href="https://github.com/Salimov-dev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keskiyo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
-  </a>
-</div>
