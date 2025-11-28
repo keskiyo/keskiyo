@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React, TS, and NodeJS Developer from Russia.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React, TS Developer from Russia.
 
 #### Programming Languages
 
@@ -55,12 +55,11 @@
 #### Back-end
 
 <p>
-  <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
-  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
   <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
   <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
   <img src="https://img.shields.io/badge/Mongoose-282c34?logo=mongoose" height="25">
+  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
 </p>
 
 #### Дополнительный стек
