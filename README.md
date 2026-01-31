@@ -6,11 +6,12 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Максим!</h1>
+<h1 align="center">Привет👋</h1>
 
 ###
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Drowh&style=for-the-badge" alt="Счетчик просмотров профиля" />
    <a href="https://t.me/keskiyo">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
     </a>
@@ -18,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React, TS Developer from Russia.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React, TS Developer.
 
 #### Programming Languages
 
@@ -33,7 +34,6 @@
    <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
   <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
     <br>
-  <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
   <img src="https://img.shields.io/badge/NextUI-282c34?logo=next.js" height="25">
   <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <br>
@@ -42,13 +42,6 @@
   <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
   <img src="https://img.shields.io/badge/MobX-282c34?logo=mobx&logoColor=ff9955" height="25">
   <br>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-282c34?logo=react&logoColor=ec5990" height="25">
-  <img src="https://img.shields.io/badge/YUP-282c34?logo=yup" height="25">
-  <img src="https://img.shields.io/badge/React%20Router-282c34?logo=react-router&logoColor=ca4245" height="25">
-  <img src="https://img.shields.io/badge/React%20Table-282c34?logo=react&logoColor=61dafb" height="25">
-  <img src="https://img.shields.io/badge/React%20Yandex%20Maps-282c34?logo=yandex&logoColor=ff0000" height="25">
-  <br>
-  <img src="https://img.shields.io/badge/WebSocket-282c34?logo=websocket" height="25">
   <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="25">
 </p>
 
@@ -58,13 +51,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
   <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
   <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
-  <img src="https://img.shields.io/badge/Mongoose-282c34?logo=mongoose" height="25">
   <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
 </p>
 
-#### Дополнительный стек
 
-<p>
-  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
-  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
-</p>
