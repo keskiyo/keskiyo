@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Drowh&style=for-the-badge" alt="Счетчик просмотров профиля" />
+  <img src="https://komarev.com/ghpvc/?username=keskiyo&style=for-the-badge" alt="Счетчик просмотров профиля" />
    <a href="https://t.me/keskiyo">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
     </a>
