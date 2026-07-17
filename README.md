@@ -26,12 +26,13 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
   <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
+  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
 </p>
 
 #### Front-end
 
 <p>
-   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
   <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
     <br>
   <img src="https://img.shields.io/badge/NextUI-282c34?logo=next.js" height="25">
@@ -43,15 +44,18 @@
   <img src="https://img.shields.io/badge/MobX-282c34?logo=mobx&logoColor=ff9955" height="25">
   <br>
   <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="25">
+  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
 </p>
 
 #### Back-end
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-282c34?logo=fastapi" height="25">
   <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
   <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
+  <br>
   <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
-  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
+  <img src="https://img.shields.io/badge/SQLAlchemy-282c34?logo=sqlalchemy" height="25">
 </p>
 
 <!-- Добавляем Snake Animation -->
