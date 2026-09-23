@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Keskiyo 👋</h1>
+<h1 align="center">Hey, I'm Maksim 👋</h1>
 
 <p align="center">
   Frontend Developer · TypeScript · React
