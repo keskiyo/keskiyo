@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋</h1>
+<h1 align="center">Hello👋</h1>
 
 ###
 
@@ -19,44 +19,19 @@
 
 ### :man_technologist: About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React, TS Developer.
+I build web apps and occasionally desktop tools.
 
-#### Programming Languages
+Mostly working with:
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
-  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
-  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
-</p>
+**TypeScript · JavaScript · Python**
 
-#### Front-end
+### What I'm building
 
-<p>
-  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
-  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
-    <br>
-  <img src="https://img.shields.io/badge/NextUI-282c34?logo=next.js" height="25">
-  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
-  <br>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&logoColor=764abc" height="25">
-  <img src="https://img.shields.io/badge/RTK%20Query-282c34?logo=redux&logoColor=764abc" height="25">
-  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
-  <img src="https://img.shields.io/badge/MobX-282c34?logo=mobx&logoColor=ff9955" height="25">
-  <br>
-  <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="25">
-  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
-</p>
+- **[KesVio](https://github.com/keskiyo/KesVio)**  
+  Local-first Windows app catalog.
 
-#### Back-end
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-282c34?logo=fastapi" height="25">
-  <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
-  <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
-  <br>
-  <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
-  <img src="https://img.shields.io/badge/SQLAlchemy-282c34?logo=sqlalchemy" height="25">
-</p>
+- **[delivery-shop](https://github.com/keskiyo/delivery-shop)**  
+  TypeScript project in active development.
 
 <!-- Добавляем Snake Animation -->
 <div align="center">
