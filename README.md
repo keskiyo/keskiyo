@@ -25,7 +25,7 @@
 - Mostly working with **TypeScript**, **JavaScript** and **Python**.  
 - I like building things that I'd actually use myself.
 
-### Current projects
+### Projects
 
 #### [KesVio](https://github.com/keskiyo/KesVio)
 
