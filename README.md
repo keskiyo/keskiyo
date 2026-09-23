@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Keskiyo 👋</h1>
 
 <p align="center">
-  Web Developer · TypeScript · React
+  Frontend Developer · TypeScript · React
 </p>
 
 <p align="center">
