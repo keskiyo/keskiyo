@@ -1,46 +1,62 @@
-<br clear="both">
+<h1 align="center">Hey, I'm Keskiyo 👋</h1>
 
-<div id="header" align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+<p align="center">
+  Frontend Developer · TypeScript · React
+</p>
 
-###
+<p align="center">
+  <a href="https://t.me/keskiyo">
+    <img
+      src="https://img.shields.io/badge/Telegram-@keskiyo-26A5E4?style=flat-square&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=keskiyo&style=flat-square&label=Profile+views"
+    alt="Profile views"
+  />
+</p>
 
-<h1 align="center">Hello👋</h1>
+<br>
 
-###
+### About
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=keskiyo&style=for-the-badge" alt="Счетчик просмотров профиля" />
-   <a href="https://t.me/keskiyo">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
-    </a>
-</div>
+- I build web applications and occasionally desktop tools.  
+- Mostly working with **TypeScript**, **JavaScript** and **Python**.  
+- I like building things that I'd actually use myself.
 
-### :man_technologist: About Me :
+### Current projects
 
-I build web apps and occasionally desktop tools.
+#### [KesVio](https://github.com/keskiyo/KesVio)
 
-Mostly working with:
+Local-first Windows app catalog for finding, organizing and launching  
+desktop, Microsoft Store, Steam and portable apps.
 
-**TypeScript · JavaScript · Python**
+`TypeScript` · `Rust` · `Tauri`
 
-### What I'm building
+---
 
-- **[KesVio](https://github.com/keskiyo/KesVio)**  
-  Local-first Windows app catalog.
+#### [delivery-shop](https://github.com/keskiyo/delivery-shop)
 
-- **[delivery-shop](https://github.com/keskiyo/delivery-shop)**  
-  TypeScript project in active development.
+E-commerce application focused on a clean shopping and ordering experience.
 
-<!-- Добавляем Snake Animation -->
+`TypeScript` · `Next.js`
+
+<br>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/keskiyo/keskiyo/output/github-contribution-grid-snake.svg"
+    >
   </picture>
-</div
-
-
-
+</div>
